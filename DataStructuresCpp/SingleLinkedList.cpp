@@ -232,6 +232,6 @@ public:
 };
 int main()
 {
-
+	
 }
 	
