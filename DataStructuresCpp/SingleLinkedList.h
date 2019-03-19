@@ -1,5 +1,8 @@
-//USE NAMESPACE STD //
+#include <iostream>
+#include <cstring>
+#include <cstdio>
 
+using namespace std;
 void swap(int * a, int * b)
 {
     int temp = *a;
@@ -227,4 +230,8 @@ public:
 
 
 };
+int main()
+{
 
+}
+	
